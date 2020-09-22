@@ -21,9 +21,9 @@ This library uses [CSS Filters](https://developer.mozilla.org/en-US/docs/Web/CSS
 
 For more information, check on [Can I Use](http://caniuse.com/#feat=css-filters).
 
-## Usage
-
-**There are currently 2 ways to consume this library:**
+## Price
+This suite allows an international payment of 11 USD/Account/90 Days. We shall review the account and auth data to determine the eligibility.
+**There is no guarantee that this will work, do it at your own risk:**
 
 ### Use CSS classes
 
